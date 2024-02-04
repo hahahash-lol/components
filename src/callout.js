@@ -1,6 +1,6 @@
 import React, { forwardRef } from 'react'
 import { Box } from 'theme-ui'
-import { Arrow } from '@carbonplan/icons'
+import { Arrow } from '@hahahash-lol/icons'
 import Link from './link'
 
 const Callout = (
