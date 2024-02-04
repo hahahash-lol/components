@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/carbonplan/components.git"
+    "url": "git+https://github.com/hahahash-lol/components.git"
   },
   "keywords": [
     "carbonplan",
@@ -22,20 +22,20 @@
   "author": "freeman-lab",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/carbonplan/components/issues"
+    "url": "https://github.com/hahahash-lol/components/issues"
   },
   "files": [
     "dst",
     "fonts.css",
     "globals.css"
   ],
-  "homepage": "https://github.com/carbonplan/components#readme",
+  "homepage": "https://github.com/hahahash-lol/components#readme",
   "dependencies": {
-    "@carbonplan/emoji": "^2.0.0",
-    "@carbonplan/icons": "^2.0.0",
+    "@hahahash-lol/emoji": "git+https://github.com/hahaHash-lol/emoji.git",
+    "@hahahash-lol/icons": "git+https://github.com/hahaHash-lol/icons.git",
     "@theme-ui/color": ">=0.15.0"
   },
-  "prettier": "@carbonplan/prettier",
+  "prettier": "@hahahash-lol/prettier",
   "peerDependencies": {
     "@emotion/react": ">=11.1.5",
     "next": ">=12",
@@ -44,7 +44,7 @@
     "theme-ui": ">=0.15.0"
   },
   "devDependencies": {
-    "@carbonplan/prettier": "^1.2.0",
+    "@hahahash-lol/prettier": "git+https://github.com/hahaHash-lol/prettier.git",
     "microbundle": "^0.13.0",
     "prettier": "^2.2.1",
     "rimraf": "3.0.2"
