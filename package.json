@@ -1,6 +1,6 @@
 {
   "name": "@hahahash-lol/components",
-  "version": "12.5.0",
+  "version": "12.5.1",
   "description": "shared components for our websites",
   "main": "dst/index.js",
   "module": "dst/index.esm.js",
