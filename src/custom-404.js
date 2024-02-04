@@ -9,7 +9,7 @@ const Custom404 = () => {
   return (
     <Layout
       footer={false}
-      title={'404 – CarbonPlan'}
+      title={'404 – hahaHash'}
       description={
         "Sorry but we can't seem to find the page you are looking for."
       }
