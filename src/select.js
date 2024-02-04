@@ -1,6 +1,6 @@
 import React, { useRef } from 'react'
 import { Box } from 'theme-ui'
-import { Arrow } from '@carbonplan/icons'
+import { Arrow } from '@hahahash-lol/icons'
 import getProps from './utils/get-props'
 import getSizeStyles from './utils/get-size-styles'
 
