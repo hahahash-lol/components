@@ -1,7 +1,7 @@
 import React from 'react'
 import { Box, IconButton, useColorMode } from 'theme-ui'
 import { useCallback } from 'react'
-import { Sun } from '@carbonplan/icons'
+import { Sun } from '@hahahash-lol/icons'
 
 const Dimmer = ({ sx, ...props }) => {
   const [colorMode, setColorMode] = useColorMode()
