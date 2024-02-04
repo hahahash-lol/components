@@ -1,6 +1,6 @@
 import React from 'react'
 import { Box } from 'theme-ui'
-import { PoopSad } from '@carbonplan/emoji'
+import { PoopSad } from '@hahahash-lol/emoji'
 import Layout from './layout'
 import Row from './row'
 import Column from './column'
