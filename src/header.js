@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { default as NextLink } from 'next/link'
 import { Box, Flex, Container, Link } from 'theme-ui'
-import { Arrow } from '@carbonplan/icons'
+import { Arrow } from '@hahahash-lol/icons'
 import Logo from './logo'
 import Row from './row'
 import Column from './column'
