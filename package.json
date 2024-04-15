@@ -31,8 +31,8 @@
   ],
   "homepage": "https://github.com/hahahash-lol/components#readme",
   "dependencies": {
-    "@hahahash-lol/emoji": "git+https://github.com/hahaHash-lol/emoji.git",
-    "@hahahash-lol/icons": "git+https://github.com/hahaHash-lol/icons.git",
+    "@hahahash-lol/emoji": "git+https://github.com/hahahash-lol/emoji.git",
+    "@hahahash-lol/icons": "git+https://github.com/hahahash-lol/icons.git",
     "@theme-ui/color": ">=0.15.0"
   },
   "prettier": "@hahahash-lol/prettier",
@@ -44,7 +44,7 @@
     "theme-ui": ">=0.15.0"
   },
   "devDependencies": {
-    "@hahahash-lol/prettier": "git+https://github.com/hahaHash-lol/prettier.git",
+    "@hahahash-lol/prettier": "git+https://github.com/hahahash-lol/prettier.git",
     "microbundle": "^0.13.0",
     "prettier": "^2.2.1",
     "rimraf": "3.0.2"
